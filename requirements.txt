@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+optuna
+openpyxl
+
+# Gradient boosting libraries
+xgboost
+lightgbm
+catboost
+
+# Needed for LSTM/TCN models in this script
+# On Google Cloud Linux VMs, the official pip package name is `tensorflow`.
+tensorflow
+
+
+
