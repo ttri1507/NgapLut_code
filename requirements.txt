@@ -16,5 +16,7 @@ catboost
 # On Google Cloud Linux VMs, the official pip package name is `tensorflow`.
 tensorflow
 
-
+#spatial
+geopandas
+rasterio
 
